@@ -1,5 +1,5 @@
 # DesertLure
-A lure for the MinnowBoard Max & Turbot.  
+A lure for the MinnowBoard Max & Turbot.  Copyright (C) 2015 Smallworks, LLC
 
 This design is made with [EAGLE CAD](http://www.cadsoftusa.com/eagle-pcb-design-software/about-eagle/) 
 
